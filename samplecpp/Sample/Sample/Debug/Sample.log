@@ -1,0 +1,4 @@
+﻿  Sample.cpp
+c:\users\ela\source\repos\sample\sample\sample.cpp(36): error C2065: 'endl': undeclared identifier
+  main.cpp
+  Generating Code...
